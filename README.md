@@ -112,3 +112,6 @@ Display and Output:
 
 Displays the final image with the drawn shapes and prints the height and width of the image.
 This code is a good example to showcase the drawing capabilities of OpenCV. Make sure to include the necessary image file ('pure_white_image.png') in your GitHub repository if you plan to share this code.
+
+![image](https://github.com/Sumitnitrkl/openCV/assets/121357559/0e219ec1-40be-4969-8185-6cad0357e136)
+
