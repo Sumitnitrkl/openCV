@@ -72,7 +72,7 @@ else:
     thickness = 2
 
     # Using cv2.putText() method 
-    image = cv2.putText(existing_image, 'sumit kumar 122CS0299', org, font, fontScale, color, thickness, cv2.LINE_AA)
+    image = cv2.putText(existing_image, 'sumit kumar', org, font, fontScale, color, thickness, cv2.LINE_AA)
 
     # Display the image with the drawn shapes
     cv2.imshow('Image with Shapes', existing_image)
